@@ -1,0 +1,94 @@
+/* Center-align the title and subtitles */
+/* Set the background color for the entire webpage */
+body {
+    background-color: #0e1117;
+    color: white; /* Optional: Set the text color to white for better readability */
+}
+.title {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    color: #4e73df;
+    margin-bottom: 20px;
+}
+
+.section-header {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+/* Center text within containers */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 20px;
+}
+
+/* Form inputs and buttons styled */
+input, select, textarea {
+    width: 80%; /* Adjust form width */
+    margin: 10px auto; /* Center form elements */
+}
+
+button {
+    margin: 20px auto;
+    display: block;
+}
+
+/* Styled patient details section */
+.patient-details {
+    margin-top: 20px;
+    background-color: #003366;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center; /* Center patient details */
+}
+
+.patient-details-container {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.patient-details-container div {
+    flex: 1;
+    min-width: 200px;
+}
+
+.patient-details-container h4 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.patient-details-container p {
+    font-size: 16px;
+    margin: 0;
+}
+
+/* Style for the subheader text */
+.patient-details-subheader {
+    display: inline-block;
+    color: white;
+    font-weight: bold;
+    margin-right: 20px;
+}
+
+/* Round image with shadow */
+.rounded-image {
+    border-radius: 50%;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin: 20px auto;
+}
