@@ -50,5 +50,3 @@ streamlit run app.py
 ![Whole Page](AI%20Doctor%20UI%20pic/6%20Whole%20page.png)
 
 
-Description of your project...
-
