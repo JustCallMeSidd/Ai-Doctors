@@ -43,6 +43,12 @@ streamlit run app.py
 # AI Doctors
 
 ![Login Screen](AI%20Doctor%20UI%20pic/1%20login.png)
+![Login Welcome](AI%20Doctor%20UI%20pic/2%20login%20welcome%20.png)
+![Sign Up](AI%20Doctor%20UI%20pic/3%20Sign%20Up.png)
+![Diagnosis Page](AI%20Doctor%20UI%20pic/4%20Diagnosis%20page%20.png)
+![Result](AI%20Doctor%20UI%20pic/5%20result.png)
+![Whole Page](AI%20Doctor%20UI%20pic/6%20Whole%20page.png)
+
 
 Description of your project...
 
