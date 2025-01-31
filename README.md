@@ -40,5 +40,9 @@ streamlit run app.py
 ```
 
 ## Demo Images
-![Example Image](Ai%20Doctor%20Ui%20pic/example.png)
+# AI Doctors
+
+![Login Screen](AI%20Doctor%20UI%20pic/1%20login.png)
+
+Description of your project...
 
